@@ -5,7 +5,7 @@
 #### ①在线图片显示
 ![在线图片](https://img0.baidu.com/it/u=3741809722,843956070&fm=26&fmt=auto&gp=0.jpg)
 #### ②本地图片显示
-![本地图片](E:/Homework/LinYi.jpg)
+![本地图片](https://github.com/wangby031/wby/blob/main/Homework/linyi.jpg)
 
 
 ## 2、超链接
