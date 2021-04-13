@@ -1,21 +1,22 @@
 # MyHomework
 #### By Wangby 21181405
 ---
-## 1¡¢Í¼ÏñµÄÏÔÊ¾
-#### ¢ÙÔÚÏßÍ¼Æ¬ÏÔÊ¾
-![ÔÚÏßÍ¼Æ¬](https://img0.baidu.com/it/u=3741809722,843956070&fm=26&fmt=auto&gp=0.jpg)
-#### ¢Ú±¾µØÍ¼Æ¬ÏÔÊ¾
-![±¾µØÍ¼Æ¬](E:/Homework/LinYi.jpg)
+## 1ã€å›¾åƒçš„æ˜¾ç¤º
+#### â‘ åœ¨çº¿å›¾ç‰‡æ˜¾ç¤º
+![åœ¨çº¿å›¾ç‰‡](https://img0.baidu.com/it/u=3741809722,843956070&fm=26&fmt=auto&gp=0.jpg)
+#### â‘¡æœ¬åœ°å›¾ç‰‡æ˜¾ç¤º
+![æœ¬åœ°å›¾ç‰‡](E:/Homework/LinYi.jpg)
 
 
-## 2¡¢³¬Á´½Ó
-#### ¢Ùa link to an external web site
-[ÎÒµÄgithub](https://github.com/wangby031/wby.git)
-#### ¢Úa link between markdown pages
-[README.mdÎÄ¼ş](E:/Homework/README.md)
+## 2ã€è¶…é“¾æ¥
+#### â‘ a link to an external web site
+[æˆ‘çš„github](https://github.com/wangby031/wby.git)
+#### â‘¡a link between markdown pages
+[README.md](E:/Homework/README.md)
 
-## 3¡¢´úÂë¿é
-#### Ò»¸ö×î¼òµ¥µÄC++´úÂëÏÔÊ¾
+
+## 3ã€ä»£ç å—
+#### ä¸€ä¸ªæœ€ç®€å•çš„C++ä»£ç æ˜¾ç¤º
 ```c++
 #include<stdio.h>
 using namespace std;
@@ -26,65 +27,65 @@ int main()
 }
 ```
 ---
-## 4¡¢ÒıÓÃ
+## 4ã€å¼•ç”¨
 
 >A man who fears suffering is already suffering from what he fears.
-¡¡¡¡
->>¡ª¡ª¡ª¡ªº¦ÅÂÍ´¿àµÄÈËÆäÊµÒÑ¾­ÔÚ³ĞÊÜËûËùº¦ÅÂµÄÍ´¿àÁË¡£
+ã€€ã€€
+>>â€”â€”â€”â€”å®³æ€•ç—›è‹¦çš„äººå…¶å®å·²ç»åœ¨æ‰¿å—ä»–æ‰€å®³æ€•çš„ç—›è‹¦äº†ã€‚
 
 >Doubt is the key to knowledge.
 
->>¡ª¡ª¡ª¡ª»³ÒÉÊÇÖªÊ¶µÄÔ¿³×¡£
+>>â€”â€”â€”â€”æ€€ç–‘æ˜¯çŸ¥è¯†çš„é’¥åŒ™ã€‚
 
 ---
-## 5¡¢±í
+## 5ã€è¡¨
 
-### ¢ÙÎŞĞòÁĞ±í
+### â‘ æ— åºåˆ—è¡¨
 
 - Doubt is the key to knowledge.
-¡¡¡¡»³ÒÉÊÇÖªÊ¶µÄÔ¿³×¡£
+ã€€ã€€æ€€ç–‘æ˜¯çŸ¥è¯†çš„é’¥åŒ™ã€‚
 
 - Pride hurts, modesty benefits.
-¡¡¡¡ÂúÕĞËğ£¬Ç«ÊÜÒæ¡£
+ã€€ã€€æ»¡æ‹›æŸï¼Œè°¦å—ç›Šã€‚
 
 - Gratitude is the sign of noble souls.
-¡¡¡¡¸Ğ¶÷ÊÇ¾«Éñ¸ßÉĞµÄ±êÖ¾¡£
+ã€€ã€€æ„Ÿæ©æ˜¯ç²¾ç¥é«˜å°šçš„æ ‡å¿—ã€‚
 
 - Honesty is the best policy.
-¡¡¡¡³ÏÊµÎªÉÏ²ß¡£
+ã€€ã€€è¯šå®ä¸ºä¸Šç­–ã€‚
 
 
-### ¢ÚÓĞĞòÁĞ±í
+### â‘¡æœ‰åºåˆ—è¡¨
 
 1. Doubt is the key to knowledge.
-¡¡¡¡»³ÒÉÊÇÖªÊ¶µÄÔ¿³×¡£
+ã€€ã€€æ€€ç–‘æ˜¯çŸ¥è¯†çš„é’¥åŒ™ã€‚
 
 2. Pride hurts, modesty benefits.
-¡¡¡¡ÂúÕĞËğ£¬Ç«ÊÜÒæ¡£
+ã€€ã€€æ»¡æ‹›æŸï¼Œè°¦å—ç›Šã€‚
 
 3. Gratitude is the sign of noble souls.
-¡¡¡¡¸Ğ¶÷ÊÇ¾«Éñ¸ßÉĞµÄ±êÖ¾¡£
+ã€€ã€€æ„Ÿæ©æ˜¯ç²¾ç¥é«˜å°šçš„æ ‡å¿—ã€‚
 
 4. Honesty is the best policy.
-¡¡¡¡³ÏÊµÎªÉÏ²ß¡£
+ã€€ã€€è¯šå®ä¸ºä¸Šç­–ã€‚
 
-### ¢Û±í¸ñ
+### â‘¢è¡¨æ ¼
 
-| Ñ§ÉúÑ§ºÅ | °à¼¶ | ĞÕÃû |
+| å­¦ç”Ÿå­¦å· | ç­çº§ | å§“å |
 | ----   |----   |---- |
-|  1405 | 34°à | Íõ±ÌÓ¨ |
+|  1405 | 34ç­ | ç‹ç¢§è¹ |
 
 ---
-## 6¡¢ÎÄ±¾ÏÔÊ¾
-#### ¢ÙÎÄ±¾¼Ó´Ö
-e.g£º
+## 6ã€æ–‡æœ¬æ˜¾ç¤º
+#### â‘ æ–‡æœ¬åŠ ç²—
+e.gï¼š
 
 This is my first markdown file.
 
 **This is my first markdown file.**
 
 
-#### ¢ÚĞ±ÌåÎÄ±¾
+#### â‘¡æ–œä½“æ–‡æœ¬
 e.g:
 
 This is my first markdown file.
@@ -92,14 +93,14 @@ This is my first markdown file.
 *This is my first markdown file.*
 
 
-#### ¢ÛÉ¾³ıÏßÏÔÊ¾
+#### â‘¢åˆ é™¤çº¿æ˜¾ç¤º
 e.g:
 
 This is my first markdown file.
 
 ~~This is my first markdown file.~~
 
-#### ¢ÜÎÄ±¾ÏÂ»®ÏßÊ¹ÓÃHTML ±êÇ©
+#### â‘£æ–‡æœ¬ä¸‹åˆ’çº¿ä½¿ç”¨HTML æ ‡ç­¾
 e.g:
 
 This is my first markdown file.
