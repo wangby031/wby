@@ -5,10 +5,11 @@
 #### ①在线图片显示
 ![在线图片](https://img0.baidu.com/it/u=3741809722,843956070&fm=26&fmt=auto&gp=0.jpg)
 #### ②本地图片显示
-![本地图片](https://github.com/wangby031/wby/blob/main/Homework/linyi.jpg)
+![linyi](https://user-images.githubusercontent.com/82459044/114581563-65257f00-9cb2-11eb-99c5-8dd3099fb1d6.jpg)
 
 
 ## 2、超链接
+
 #### ①a link to an external web site
 [我的github](https://github.com/wangby031/wby.git)
 #### ②a link between markdown pages
