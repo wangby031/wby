@@ -12,7 +12,7 @@
 #### ①a link to an external web site
 [我的github](https://github.com/wangby031/wby.git)
 #### ②a link between markdown pages
-[README.md](E:/Homework/README.md)
+[README.md](https://github.com/wangby031/wby/blob/main/Homework/README.md)
 
 
 ## 3、代码块
