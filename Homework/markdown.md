@@ -101,11 +101,4 @@ This is my first markdown file.
 
 ~~This is my first markdown file.~~
 
-#### ④文本下划线使用HTML 标签
-e.g:
-
-This is my first markdown file.
-
-<u>This is my first markdown file.</u>
-
 
